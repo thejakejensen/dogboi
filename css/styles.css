@@ -5,3 +5,11 @@ background-color: grey;
 .title {
   text-align: center;
 }
+
+.picture {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
